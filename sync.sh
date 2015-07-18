@@ -1,6 +1,6 @@
 #!/bin/bash
 
-dir=~/dotfiles                    # dotfiles directory
+dir=~/.dotfiles                    # dotfiles directory
 files="vimrc zshrc tmux.conf tmux.theme.conf"    # list of files/folders to symlink in homedir
 
 echo "Changing to the $dir directory"
